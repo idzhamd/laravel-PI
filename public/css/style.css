@@ -1,0 +1,44 @@
+body{
+	height: 100%;
+}
+.navbar{
+	border-radius: 0px;
+	margin:0px;
+}
+
+.sidebar{
+	border-top: 1px solid white;
+	background-color: #2c3e50;
+	position: fixed;
+	height: 100%;
+	padding: 0px;
+}
+.sidebar ul.dropdown{
+	font-size: 18px;
+	margin: 0px;
+	padding-left: 0px;
+	list-style-type: none;
+}
+
+.sidebar li{
+	padding: 5px 15px;
+}
+
+.sidebar li a{
+	color: white;
+}
+
+.sidebar ul.dropdownMenu{
+	font-size: 16px;
+	padding-left: 10px;
+	display: none;
+}
+
+.jumbotron{
+	background-color: #2c3e50;
+	color: #f5f5f5;
+}
+
+
+
+
